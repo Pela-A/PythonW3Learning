@@ -230,7 +230,3 @@ print(x, "is my favorite fruit.")
 # rfind() last position value found. rindex exists as well but will raise an exception if not found
 
 # swapcase() swaps letter casings
-
-
-
-
