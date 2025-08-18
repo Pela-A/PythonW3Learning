@@ -8,4 +8,4 @@ A fairly large amount of this I already know but this will help with quirks of l
 After this I can go ham on Leetcode and DSA
 
 TODO:
-Review bitwise operations
+Review bitwise operations when appropriate time
